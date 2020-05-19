@@ -1,0 +1,58 @@
+﻿Build started 6/23/2016 2:37:55 PM.
+     1>Project "C:\Users\UTRGVCS\Documents\Visual Studio 2013\Projects\Nested_FD_Test_3\Nested_FD1\Nested_FD1.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Nested_FD1.vcxproj, Nested_FD_Test.vcxproj, Nested_FD_Test_2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\opencv-3.1.0-cuda\install\x64\vc12\..\..\include" /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FDPersoonFu.h(59): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FDPersoonFu.h(63): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FDPersoonFu.h(65): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FDPersoonFu.h(71): warning C4267: 'initializing' : conversion from 'size_t' to 'long', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FDPersoonFu.h(101): warning C4267: 'initializing' : conversion from 'size_t' to 'long', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FDPersoonFu.h(102): warning C4244: 'initializing' : conversion from 'long' to 'float', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FDPersoonFu.h(116): warning C4244: 'argument' : conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FDPersoonFu.h(117): warning C4244: 'argument' : conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FDPersoonFu.h(123): warning C4244: 'initializing' : conversion from 'long' to 'float', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FDPersoonFu.h(126): warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FDPersoonFu.h(144): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FDPersoonFu.h(200): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FDPersoonFu.h(210): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FDPersoonFu.h(250): warning C4267: 'initializing' : conversion from 'size_t' to 'long', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FDPersoonFu.h(254): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FDPersoonFu.h(256): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FDPersoonFu.h(264): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FDPersoonFu.h(289): warning C4244: 'argument' : conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FDPersoonFu.h(333): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FDPersoonFu.h(364): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FDPersoonFu.h(392): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FDPersoonFu.h(440): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FDPersoonFu.h(473): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FVCompare.h(401): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FVCompare.h(461): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FVCompare.h(589): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FVCompare.h(640): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FVCompare.h(700): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\FVCompare.h(703): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\laplacianEdgeDetector.h(21): warning C4101: 'c' : unreferenced local variable
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\IPToolbox.h(19): warning C4267: '=' : conversion from 'size_t' to 'uchar', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\ParallelCompute.h(132): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\ParallelCompute.h(133): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\EllipticalFD.h(20): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\EllipticalFD.h(63): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\EllipticalFD.h(142): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Source.cpp(69): warning C4244: '=' : conversion from 'int64' to 'unsigned long', possible loss of data
+     1>Source.cpp(70): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Source.cpp(492): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>Source.cpp(505): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>Source.cpp(506): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>Source.cpp(950): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>Source.cpp(951): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nested_fd_test_3\nested_fd1\source.cpp(1001): warning C4715: 'getNextNonConcentricContour' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\UTRGVCS\Documents\Visual Studio 2013\Projects\Nested_FD_Test_3\x64\Debug\Nested_FD_Test_3.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\opencv-3.1.0-cuda\install\x64\vc12\lib" opencv_cudafilters310d.lib opencv_cudaimgproc310d.lib opencv_highgui310d.lib opencv_imgproc310d.lib opencv_imgcodecs310d.lib opencv_ts310d.lib opencv_core310d.lib opencv_cudastereo310d.lib opencv_cudaarithm310d.lib opencv_photo310d.lib opencv_plot310d.lib opencv_ml310d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\UTRGVCS\Documents\Visual Studio 2013\Projects\Nested_FD_Test_3\x64\Debug\Nested_FD_Test_3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\UTRGVCS\Documents\Visual Studio 2013\Projects\Nested_FD_Test_3\x64\Debug\Nested_FD_Test_3.lib" /MACHINE:X64 x64\Debug\Source.obj
+         Nested_FD1.vcxproj -> C:\Users\UTRGVCS\Documents\Visual Studio 2013\Projects\Nested_FD_Test_3\x64\Debug\Nested_FD_Test_3.exe
+     1>Done Building Project "C:\Users\UTRGVCS\Documents\Visual Studio 2013\Projects\Nested_FD_Test_3\Nested_FD1\Nested_FD1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.20

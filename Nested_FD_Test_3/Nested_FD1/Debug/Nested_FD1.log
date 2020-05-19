@@ -1,0 +1,17 @@
+﻿Build started 2/5/2016 11:51:45 AM.
+     1>Project "c:\Users\UTRGVCS\documents\visual studio 2013\Projects\Nested_FD1\Nested_FD1\Nested_FD1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\opencv-3.1.0-cuda\build\install\x64\vc12\..\..\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\NestedFD_111\NestedFD_1\Source.cpp
+         Source.cpp
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nestedfd_111\nestedfd_1\laplacianedgedetector.h(21): warning C4101: 'c' : unreferenced local variable
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nestedfd_111\nestedfd_1\source.cpp(149): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nestedfd_111\nestedfd_1\source.cpp(166): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\utrgvcs\documents\visual studio 2013\projects\nestedfd_111\nestedfd_1\source.cpp(53): warning C4101: 'tools' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\utrgvcs\documents\visual studio 2013\Projects\Nested_FD1\Debug\Nested_FD1.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\opencv-3.1.0-cuda\build\install\x64\vc12\lib" opencv_world310d.lib opencv_ts310d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\utrgvcs\documents\visual studio 2013\Projects\Nested_FD1\Debug\Nested_FD1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\utrgvcs\documents\visual studio 2013\Projects\Nested_FD1\Debug\Nested_FD1.lib" /MACHINE:X86 Debug\Source.obj
+     1>opencv_world310d.lib(opencv_world310d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'
+     1>Done Building Project "c:\Users\UTRGVCS\documents\visual studio 2013\Projects\Nested_FD1\Nested_FD1\Nested_FD1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.52
