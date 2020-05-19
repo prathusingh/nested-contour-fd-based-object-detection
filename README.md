@@ -1,7 +1,6 @@
 # Nested_Contour_FD_based_Object_Recognition
 Nested Contours and Shape Descriptors based Object Detection and Recognition
 
-Project Page : https://bassamarshad.github.io/Nested_Contour_FD_based_Object_Recognition/
 #Results
 
     
@@ -125,6 +124,3 @@ Project Page : https://bassamarshad.github.io/Nested_Contour_FD_based_Object_Rec
     <img width="400" src="/Nested_FD_Test_3/Nested_FD1/FinalOutModels/y6_Analysis.jpg">
 </section>
 
-
-#Visit the github project page for implementation details 
-https://bassamarshad.github.io/Nested_Contour_FD_based_Object_Recognition/
